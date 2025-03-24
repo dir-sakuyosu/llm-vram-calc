@@ -1,6 +1,6 @@
 # llm-vram-calc
 
-Calculate the VRAM size required for LLM: [Go](https://dir-sakuyosu.github.io/pllm-vram-calc/)
+Calculate the VRAM size required for LLM: [Go to Page](https://dir-sakuyosu.github.io/pllm-vram-calc/)
 
 ## development
 
