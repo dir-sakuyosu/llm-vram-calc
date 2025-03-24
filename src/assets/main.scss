@@ -1,0 +1,10 @@
+@use 'bulma/sass';
+
+.field-text {
+  padding-bottom: var(--bulma-control-padding-vertical);
+  padding-left: var(--bulma-control-padding-horizontal);
+  padding-right: var(--bulma-control-padding-horizontal);
+  padding-top: var(--bulma-control-padding-vertical);
+  height: var(--bulma-control-height);
+  line-height: var(--bulma-control-line-height);
+}
